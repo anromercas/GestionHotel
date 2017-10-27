@@ -1,0 +1,4 @@
+F:\Gestion de hotel\GestionHotel\GestionHotel\obj\x86\Debug\GestionHotel.csprojResolveAssemblyReference.cache
+F:\Gestion de hotel\GestionHotel\GestionHotel\obj\x86\Debug\GestionHotel.FrmSplash.resources
+F:\Gestion de hotel\GestionHotel\GestionHotel\obj\x86\Debug\GestionHotel.Vista.Main.resources
+F:\Gestion de hotel\GestionHotel\GestionHotel\obj\x86\Debug\GestionHotel.csproj.GenerateResource.Cache
